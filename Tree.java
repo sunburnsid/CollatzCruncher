@@ -1,4 +1,4 @@
-public class Tree{
+public class StepCount{
 	
 	public static void main(String[] args){
 		System.out.println("No of steps: " + makepath(138367));
